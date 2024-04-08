@@ -1,0 +1,24 @@
+.services{
+    background-color:white;
+    text-align: center;
+    
+    
+
+}
+p{
+  color:rgb(86, 87, 87);
+}
+.services1 {
+    display: inline-block;
+    width: 20%;
+    background-color: white;
+
+}
+h4{
+    background-color: brown;
+    height: 70px;
+}
+svg{
+    color: chocolate;
+    height: 20px;
+}
